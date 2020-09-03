@@ -49,9 +49,9 @@ tagSelector.prototype.get = function(index){
   } else if(index<0) {
     throw new Error("Index cannot be negative.");
   } else if(index==null) {
-    return selectString(this.text);
+    return new selectString(this.text);
   } else {
-    return selectString(line[index]);
+    return new selectString(line[index]);
   }
 }
 
