@@ -1,6 +1,7 @@
 # HTML Tag Selector (such as jsoup)
 HTML Tag Selector 는
-```cheerio```가 어려운 당신에게, 또는 다른 엔진을 쓰는 당신에게
+```cheerio```가 어려운 당신에게, 또는 
+다른 엔진을 쓰는 당신에게
 조금 더 편리하게 데이터를 가져오게 도와줍니다.
 
 `Jsoup`의 `select`와 비슷한 형식으로
